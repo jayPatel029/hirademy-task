@@ -15,7 +15,7 @@ To run the code locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:   
    ```
-   git clone https://github.com/jayPatel029/hirademy-task/tree/master   
+   git clone https://github.com/jayPatel029/hirademy-task.git
    ```
 3. Ensure you have Flutter installed. If not, follow the [official installation guide](https://flutter.dev/docs/get-started/install).
 4. Open the project in your preferred IDE or editor.
