@@ -7,12 +7,13 @@ This Flutter project demonstrates fetching book data from an API and displaying 
 
 To run the code locally, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Ensure you have Flutter installed. If not, follow the [official installation guide](https://flutter.dev/docs/get-started/install).
-3. Open the project in your preferred IDE or editor.
-4. Run `flutter pub get` in the terminal to install dependencies.
-5. Connect a device or start an emulator.
-6. Run `flutter run` in the terminal to start the application.
+1. Clone this repository to your local machine using the following command:
+   `git clone git@github.com:jayPatel029/hirademy-task.git`
+3. Ensure you have Flutter installed. If not, follow the [official installation guide](https://flutter.dev/docs/get-started/install).
+4. Open the project in your preferred IDE or editor.
+5. Run `flutter pub get` in the terminal to install dependencies.
+6. Connect a device or start an emulator.
+7. Run `flutter run` in the terminal to start the application.
 
 ## Dependencies
 
