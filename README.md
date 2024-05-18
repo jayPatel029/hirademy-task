@@ -9,6 +9,8 @@ You can watch a demo of the application in action by clicking the link below:
 
 [![Demo Video]()](https://youtu.be/sDVHYUvjGvM)
 
+## Firebase Hosted URL
+https://hirademy-api-ec9fe.web.app/
 ## How to Run the Code
 
 To run the code locally, follow these steps:
